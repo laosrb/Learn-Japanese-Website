@@ -3,4 +3,5 @@ This Project is designed to help students learn about Japanese Characters (Hirag
 
 
 # Visit the Page
-[Website] (https://laosrb.github.io/Learn-Japanese-Website/index.html)
+[Website](https://laosrb.github.io/Learn-Japanese-Website/index.html)
+
